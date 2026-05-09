@@ -23,7 +23,7 @@
   </a>
   <a href="https://github.com/SangeethaRachaALT">
     <img alt="Most used languages"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=SangeethaRachaALT&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=shell&size_weight=0.5&count_weight=0.5"
+         src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SangeethaRachaALT&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=shell&size_weight=0.5&count_weight=0.5"
          height="180" />
   </a>
 </p>
